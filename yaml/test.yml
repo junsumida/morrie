@@ -1,0 +1,5 @@
+defaults: &defaults
+  api_version_normal:
+    - 523
+  android_api_version_normal:
+    - 523
